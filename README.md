@@ -1,5 +1,2 @@
 ## wsg 👋
-
-<!--
-doing your mom
--->
+**doing your mom**
